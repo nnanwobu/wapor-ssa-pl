@@ -1,0 +1,13 @@
+<ul class="list {{extraclass}}">
+{{# benefit-items}}
+ <li class="list-item">
+   {{# url}}
+      <a class="list-link" href="{{url}}">{{label}}</a>
+   {{/ url}}
+   {{^ url}}
+      {{label}}
+   {{/ url}}
+ </li> 
+ {{/ benefit-items}}
+
+</ul>

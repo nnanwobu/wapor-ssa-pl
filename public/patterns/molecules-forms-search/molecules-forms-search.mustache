@@ -1,0 +1,20 @@
+<div class= "search">
+  
+   <form class="search-form {{searchformadditionalclass}}" method="{{method}}" action="{{action}}">
+   {{#searchFormFields}}
+        {{#items}}
+            {{#searchtextField}}
+                {{>molecules-text-field }}
+            {{/searchtextField}}  
+        {{/items}}
+         <button class="btn-search">
+            
+            <img src="/../../images/icons/search.svg"/>
+            
+         </button>
+    
+   {{/searchFormFields}}
+   </form>
+
+
+</div>

@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "src": "../../images/slide0.jpg"
+  },
+  "hero-items": [
+    {
+      "hero": {
+        "src": "../../images/slide2.jpg",
+        "alt": "slide2",
+        "title": "WAPOR-SSA is the chapter association of the World Association for Public Opinion Research (WAPOR) which for over 74yrs has promoted the highest professional standards"
+      }
+    },
+    {
+      "hero": {
+        "src": "../../images/slide0.jpg",
+        "alt": "slide1",
+        "title": "The WAPOR-SSA, with secretariat in Nairobi, Kenya, was established in August 2022  with individual members spanning across the 42 countries of the sub-Saharan Africa region. "
+      }
+    },
+
+    {
+      "hero": {
+        "src": "../../images/conference-2024.jpg",
+        "alt": "conference photo",
+        "title": "This chapter association engages in a robust ongoing conversation using publications, seminars, meetings and other educational initiatives "
+      }
+    },
+    {
+      "hero": {
+        "src": "../../images/conference-2024b.jpg",
+        "alt": "conference photo",
+        "title": "We are established to promote the knowledge and application of scientific methods in this objective; and to assist and promote the development and publication of public opinion research in Sub Saharan Africa. "
+      }
+    },
+    {
+      "hero": {
+        "src": "../../images/slide3.jpg",
+        "alt": "slide3",
+        "title": "Wapor-SSA is to be the voice of public opinion research in sub–Saharan Africa as well as between the representatives of different scientific disciplines."
+      }
+    },
+    {
+      "hero": {
+        "src": "../../images/slide4.jpg",
+        "alt": "slide4",
+        "title": "We Promote international cooperation and exchange among academic and commercial researchers, journalist/media, political actors, students with interest in polling/politics."
+      }
+    }
+  ],
+  "title": "WAPOR-SSA is the chapter association of the World Association for Public Opinion Research (WAPOR) ",
+
+  "list": {
+    "items": [
+      {
+        "label": "FROM RISING COSTS TO SHRINKING WALETS:-WAPOR-SSA Webinar Series Thursday, 24th October, 2024",
+        "url": "#"
+      },
+      {
+        "label": "Wapor Regional Conference April 15th-18th, 2024",
+        "url": "#"
+      },
+      {
+        "label": "Call for papers-Theme: shaping a sustainable future: the lessons and legacies from opinion polling in africa",
+        "url": "#"
+      },
+      {
+        "label": "Explore our diverse range of recommended hotels for your reservation towards the conference",
+        "url": "#"
+      },
+      {
+        "label": "Take a look at the sponsorship packages",
+        "url": "#"
+      },
+      {
+        "label": "Book for your FLIGHT at a discounted rate",
+        "url": "#"
+      }
+    ]
+  },
+  "galleryImage": "../../images/announce1.jpg",
+  "about-us-text": "The WAPOR-SSA, with secretariat in Nairobi, Kenya, was established in August 2022 with individual members spanning across the 42 countries of the sub-Saharan Africa region.<br/> WAPOR-SSA is the chapter association of the World Association for Public Opinion Research (WAPOR) which for over 74yrs has promoted the highest professional standards, ethics and technique for survey and public opinion polling around the world. This chapter association engages in a robust ongoing conversation using publications, seminars, meetings and other educational initiatives about the best way to collect data and maintain data quality in and around the sub-Saharan African region.<br/> We will continue to promote in each country or region in Sub Saharan Africa the right to conduct and publish scientific research on what the people and its groups think and how this thinking is influenced by various factors.<br/> We are established to promote the knowledge and application of scientific methods in this objective; and to assist and promote the development and publication of public opinion research in Sub Saharan Africa.",
+
+  "news-items": [
+    {
+      "label": "FROM RISING COSTS TO SHRINKING WALETS:-WAPOR-SSA Webinar Series Thursday, 24th October, 2024",
+      "url": "#"
+    },
+    {
+      "label": "Wapor Regional Conference April 15th-18th, 2024",
+      "url": "#"
+    },
+    {
+      "label": "Call for papers-Theme: shaping a sustainable future: the lessons and legacies from opinion polling in africa",
+      "url": "#"
+    },
+    {
+      "label": "Explore our diverse range of recommended hotels for your reservation towards the conference",
+      "url": "#"
+    },
+    {
+      "label": "Take a look at the sponsorship packages",
+      "url": "#"
+    },
+    {
+      "label": "Book for your FLIGHT at a discounted rate",
+      "url": "#"
+    }
+  ],
+  "benefitImage": "../../images/culture00.jpg",
+
+  "benefit-items": [
+    {
+      "label": "Belong to a world class association of like minds and contribute to shape thoughts and conscience of peoples for next generation"
+    },
+    {
+      "label": "Receive our periodical/journal that educate and inform on data collection techniques, scientific methodologies and analytics etc."
+    },
+    {
+      "label": "Network with international colleagues that opens door to greater learning ideas, and improve your business or career."
+    }
+  ],
+  "about-button": {
+    "btnModifier": "btn-black",
+    "text": "Read more",
+    "url": "link.pages-page-about"
+  },
+  "benefit-button": {
+    "btnModifier": "btn-primary",
+    "text": "Learn more",
+    "url": "link.pages-page-membership-benefits"
+  },
+  "event-list": [
+    {
+      "event": {
+        "image": "../../images/webinar28-04-2025.jpg",
+        "button": {
+          "btnModifier": "btn-primary",
+          "text": "watch the full video",
+          "url": "link.pages-page-webinar-28-04-2025"
+        }
+      }
+    },
+    {
+      "event": {
+        "image": "../../images/announce1.jpg",
+        "button": {
+          "btnModifier": "btn-primary",
+          "text": "Register Now",
+          "url": "https://us06web.zoom.us/webinar/register/WN_bt9j6EluSMmk_Mx4YHuG3w",
+          "target": "_blank"
+        }
+      }
+    }
+  ]
+}

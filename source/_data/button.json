@@ -1,0 +1,23 @@
+{
+  "buttonTag": true,
+  "buttonText": "Button",
+  "target": "_self",
+  "btnModifier": "variant",
+  "text": "default button ",
+  "url": "#",
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "primary button ",
+      "url": "#",
+      "target": "_self"
+    },
+    {
+      "btnModifier": "btn-secondary",
+      "text": "secondary button ",
+      "url": "#",
+      "target": "_self"
+    }
+  ]
+}

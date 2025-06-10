@@ -1,0 +1,29 @@
+<form method="{{methos}}" action="{{url}}" class="c-form {{additionalClasses}}">
+    {{#formFields}}
+        {{#items}}
+            {{#textField}}
+                {{> molecules-text-field}}
+            {{/textField}}
+            {{#selectField}}
+                {{> molecules-select-field}}
+            {{/selectField}}
+            {{# checkboxField}}
+                {{> molecules-checkbox-field}}
+            {{/ checkboxField}}
+            {{# inlineCheck}}
+                {{> molecules-inline-checkbox}}
+            {{/ inlineCheck}}
+            {{#radioField}}
+                {{> molecules-radio-field}}
+            {{/radioField}}
+            {{#textareaField}}
+                {{> molecules-textarea-field}}
+            {{/textareaField}}
+            {{#button}}
+              {{> molecules-button}}
+            {{/button}}
+        {{/items}}
+    
+    {{/ formFields}}
+
+</form>

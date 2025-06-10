@@ -1,0 +1,86 @@
+{
+  "list-caption": "",
+  "cards": [
+    {
+      "title": "Card Title",
+      "cardImage": "../../images/400x300.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    },
+    {
+      "title": "Card Title",
+      "cardImage": "../../images/400x300.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    },
+    {
+      "title": "Card Title",
+      "cardImage": "../../images/400x300.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    },
+    {
+      "title": "Card Title",
+      "cardImage": "../../images/400x300.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "title": "Card Title",
+      "cardImage": "../../images/400x300.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    },
+    {
+      "title": "Card Title",
+      "cardImage": "../../images/400x300.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+
+  "news-items": [
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "#"
+    },
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "#"
+    },
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "#"
+    },
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "#"
+    }
+  ],
+
+  "benefit-items": [
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": false
+    },
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": false
+    },
+    {
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": false
+    }
+  ],
+  "benefit-items-exist": true,
+  "event-list-exist": false,
+  "event-listItem": [
+    {
+      "label": "event name",
+      "edition": " event edtion ",
+      "theme": " event theme",
+      "date": "event date",
+      "venue": "event venue",
+      "url": "#"
+    }
+  ],
+  "hotel-list-exist": false,
+  "hotel-listItem": [
+    { "url": "#", "name": "name1", "image": "" },
+    { "url": "#", "name": "name2", "image": "" }
+  ]
+}

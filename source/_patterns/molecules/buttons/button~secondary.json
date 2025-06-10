@@ -1,0 +1,7 @@
+{
+  "button": {
+    "btnModifier": "btn-secondary",
+    "url": "#",
+    "text": "secondary button"
+  }
+}

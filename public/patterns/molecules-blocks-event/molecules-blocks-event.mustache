@@ -1,0 +1,30 @@
+<div class=" event-container ">
+	<h2>Announcement</h2>
+	<div class="adswiper myAdSwiper">
+		<div class="swiper-wrapper">
+             {{#event-list}}
+                
+			<div class="swiper-slide">
+				<div class="swiper-zoom-container">
+                   <span class="event-image-container">
+					    <img src="{{event.image}}" alt="photo" class="event-img" />
+                        {{#event.button}}
+                            {{> molecules-button}}
+                        {{/event.button}}
+                    </span>
+				</div>
+                
+			</div>
+          
+                           
+
+            {{/event-list}}
+            
+		</div>
+		<div class="adswiper-button-next"></div>
+		<div class="adswiper-button-prev"></div>
+		<div class="adswiper-pagination"></div>
+	</div>
+          
+
+</div>

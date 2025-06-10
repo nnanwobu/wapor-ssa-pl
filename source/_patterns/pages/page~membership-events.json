@@ -1,0 +1,29 @@
+{
+  "title": " membership events  ",
+  "htmlText": "<p>WAPOR- SSA from time to time organizes events or get togethers such as meetings, webinars/seminars, regional or annual conferences. These events offer opportunities for members to discuss professional, methodological issues that affect the sub-Saharan African region and the world. Locations for these events (except for online modules) are moved from country to country within the sub region.   We also collaborate with other regional chapters like WAPOR- WANA, WAPOR- LATAM, WAPOR-AP in organizing events which among other things promote the importance of conducting scientifically sound public opinion research and provoke discussion that advance democracy and governance in Africa.<br/>WAPOR Annual Conferences: the global body annual conferences are held in a three-year cycle: with American Association for Public Opinion Research (AAPOR), in connection with ESOMAR or ESRA in Europe and in the third year in a new location. This year: </p>",
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Become Wapor SSA member NOW ",
+      "url": "#"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Join wapor global body",
+      "url": "https://wapor.org/membership/"
+    }
+  ],
+  "event-list-exist": true,
+  "event-listItem": [
+    {
+      "label": "WAPOR SUB-SAHARAN AFRICA REGIONAL CONFERENCE 2024",
+      "edition": " 1st Annual Regional Conference ",
+      "theme": " Shapping a Sustainable Future: The lessons and Legacies from Opinion Polling in Africa",
+      "date": "April 15th - 18th, 2024",
+      "venue": "Mombasa, Kenya",
+      "url": "link.pages-page-regional-conference-2024"
+    }
+  ]
+}

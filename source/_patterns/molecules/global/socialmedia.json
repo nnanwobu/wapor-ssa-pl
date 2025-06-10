@@ -1,0 +1,29 @@
+{
+  "socialmedia": [
+    {
+      "label": "facebook",
+      "url": "#",
+      "src": "../../images/facebook.png"
+    },
+    {
+      "label": "twitter",
+      "url": "#",
+      "src": "../../images/twitter.png"
+    },
+    {
+      "label": "instagram",
+      "url": "#",
+      "src": "../../images/instagram.png"
+    },
+    {
+      "label": "linkedin",
+      "url": "#",
+      "src": "../../images/linkedin.png"
+    },
+    {
+      "label": "whatsapp",
+      "url": "#",
+      "src": "../../images/whatsapp.png"
+    }
+  ]
+}

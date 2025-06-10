@@ -1,0 +1,77 @@
+{
+  "title": "hotel reservation",
+  "htmlText": " <p>As you gear up for the WAPOR-SSA Conference, we've curated a selection of top-tier accommodations to enhance your stay in Kenya during this prestigious event. Our aim is to provide you with comfort and convenience, ensuring that your time here is as enriching as possible.Explore our diverse range of recommended hotels, each offering its own unique blend of luxury and affordability. Whether you're seeking opulent amenities or a cozy retreat, we have options to suit every preference and budget. Embrace the opportunity to relax and rejuvenate in style while immersing yourself in the vibrant atmosphere of the conference.</p>",
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Register NOW ",
+      "url": "https://store.pesapal.com/waporssaregionalconference2024",
+      "target": "_blank"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Get more information",
+      "url": "link.pages-page-regional-conference-2024"
+    }
+  ],
+  "hotel-list-exist": true,
+  "hotel-listItem": [
+    {
+      "url": "https://bookings.sarovahotels.com/reservation/roomdetails/322773?checkin=20240415&checkout=20240419&bookingcode=WAPORBB",
+      "name": "Sarova Hotel & Resorts Kenya (Bed & Breakfast:)",
+      "image": "../../images/sarova1.jpg"
+    },
+    {
+      "url": "https://bookings.sarovahotels.com/reservation/roomdetails/322773?checkin=20240415&checkout=20240419&bookingcode=WAPORHB",
+      "name": "Sarova Hotel & Resorts Kenya (Half Board:)",
+      "image": "../../images/sarova2.jpg"
+    },
+    {
+      "url": "https://www.serenahotels.com/serena-beach/location-contact",
+      "name": "Serena hotel",
+      "image": "../../images/serena.png"
+    },
+    {
+      "url": "https://bamburibeachkenya.com",
+      "name": "Bamburi Beach Kenya",
+      "image": "../../images/bamburi.jpg"
+    },
+    {
+      "url": "https://severinsealodge.com/",
+      "name": "Severin Hotel",
+      "image": "../../images/severin.jpg"
+    },
+    {
+      "url": "https://www.prideinn.co.ke/hotels-in-mombasa/prideinn-flamingo/",
+      "name": "Pride Inn Flamingo",
+      "image": "../../images/flamingo.jpg"
+    },
+    {
+      "url": "https://www.prideinn.co.ke/ ",
+      "name": "Pride inn Hotel",
+      "image": "../../images/pridein.jpg"
+    },
+    {
+      "url": "https://www.travellersbeach.com/rooms/",
+      "name": "Travellers Beach Kenya.",
+      "image": "../../images/travellers.jpg"
+    },
+    {
+      "url": "https://mombasacontinental.com/",
+      "name": "Mombasa Continental",
+      "image": "../../images/mombasa.jpg"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294210-d1383513-Reviews-Sai_Rock_Beach_Hotel_Spa-Mombasa_Coast_Province.html",
+      "name": "Sai Rock beach hotel and Spa",
+      "image": "../../images/sai-hotel.jpg"
+    },
+    {
+      "url": "https://kilua.co.ke/",
+      "name": "Kilua Beach Resort",
+      "image": "../../images/kilua.jpg"
+    }
+  ]
+}

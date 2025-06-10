@@ -1,0 +1,41 @@
+
+{{> organisms-header}}
+<div class="page-content-container">
+{{> organisms-banner}}
+<div class="page-container">
+  {{# display-sideBar}}
+    <div class="page-sideBar">
+        {{> molecules-sidebar-nav }}
+    </div>
+    {{/ display-sideBar}}
+    <main class="page-main">
+        {{#displayDateBanner}}
+            {{>atoms-date-banner}}
+        {{/displayDateBanner}}
+
+        {{{htmlText}}}
+        {{#displayTable}}
+           {{>organisms-table}}
+        {{/displayTable}}
+         {{# event-list-exist}}
+        {{> molecules-event-list}}
+        {{/ event-list-exist}}
+   
+        {{# hotel-list-exist}}
+        {{> molecules-hotel-list}}
+        {{/ hotel-list-exist}}
+        
+        {{#imageLeftListRight-exist}}
+          {{>organisms-section-imageLeft-listRight}}
+        {{/imageLeftListRight-exist}}
+
+        {{{htmlText2}}}
+        
+        {{# addButtonGroup}}
+        {{> organisms-buttonGroup}}
+        {{/ addButtonGroup}}
+    
+    </main>
+</div>
+<div>
+{{> organisms-footer}}

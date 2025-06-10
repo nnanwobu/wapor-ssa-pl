@@ -1,0 +1,8 @@
+{
+  "hero": {
+    "src": "https://placehold.co/1200x800",
+    "alt": "hero-photo",
+    "width": "1200px",
+    "height": "800px"
+  }
+}

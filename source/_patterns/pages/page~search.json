@@ -1,0 +1,20 @@
+{
+  "title": "search",
+  "bannertitleclass": "search-title",
+  "htmlText": "<ul class='search-list'><p class='not-found'>Please enter text on the search box and submit</p></ul>",
+  "display-sideBar": true,
+  "addButtonGroup": false,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Become Wapor SSA member NOW ",
+      "url": "#"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Join wapor global body",
+      "url": "https://wapor.org/membership/"
+    }
+  ]
+}

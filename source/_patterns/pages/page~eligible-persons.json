@@ -1,0 +1,18 @@
+{
+  "title": "wapor ssa eligible persons",
+  "htmlText": " <p> Membership of WAPOR-SSA is open to only individuals who have an interest in the conduct, use, or teaching of scientific opinion and attitude surveys, social science research, media or communications research, market research, or related activities in Sub Saharan Africa and who subscribe to and follow the WAPOR Code of Professional Ethics and Practices.<br> Only individual members in good standing shall have the right to vote and hold office in WAPOR SSA. You can join WAPOR-SSA and enjoy the benefit of the chapter membership, without necessary joining the global WAPOR. You can also join WAPOR global body only or join both.  However, membership of the global body only, does not automatically convey membership benefit of the chapter association.<a href='link.pages-page-membership-fees'> see membership fees&rAarr;</a></p>",
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Become Wapor SSA member NOW ",
+      "url": "#"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Join wapor global body",
+      "url": "https://wapor.org/membership/"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "title": "sponsorship",
+  "htmlText": "",
+  "htmlText2": "<h2><strong>UNDERWRITING OPPORTUNITIES</strong></h2><ul class='addbullet'><li>Customized Cultural Tote Bags - $2500:Showcase the diversity and richness of Sub-Saharan African culture by sponsoring customized tote bags featuring local designs and motifs. Your company’s logo will be displayed alongside these culturally relevant designs, ensuring constant visibility during and after the conference.</li><li>Eco-Friendly Pens & Notepads-$1000: Promote sustainability by providing attendees with eco-friendly pens and notepads made from recycled materials. Your commitment to environmental responsibility will be appreciated by conference participants and aligns with the global push for eco-conscious practices.</li><li>Local Artisanal Tote Bag Inserts - $500: Support local artisans and entrepreneurs by offering conference attendees the opportunity to discover unique handmade products from Mombasa and surrounding regions. Include flyers, postcards, or promotional items showcasing the vibrant local craftsmanship in the conference tote bags.</li><li >Galla Dinner - $4000: Host the prestigious annual gala dinner, offering attendees an unforgettable evening celebrating achievements in public opinion research. Your generous support will be recognized as integral to the success of this prestigious event, showcasing your commitment to advancing knowledge and cultural appreciation in Sub-Saharan Africa.</li><li>Kenyan Coffee Break - $1000 (4 available):Treat conference participants to the rich flavors of Kenyan coffee during energizing breaks between sessions. Your company logo will be prominently displayed on napkins and signage, enhancing brand visibility while attendees enjoy locally sourced refreshments.</li><li>Each Student Travel Grant & Keynote Sponsorship - $1000: Enable students from across Sub Saharan Africa to attend the conference by sponsoring travel grants and keynote sessions. Your organization will be recognized for supporting the next generation of public opinion researchers, fostering inclusivity and diversity within the field..</li><li>Cultural Evening Event Sponsorship - $3500: Sponsor a cultural evening event showcasing the rich diversity of Sub-Saharan Africa's traditions, music, and cuisine.</li><li>Technology Support Sponsorship $2000:Sponsor the technological infrastructure required for virtual attendance and engagement, ensuring seamless participation for  remote attendees.</li><li>Student Scholarship Fund - $1500:Contribute to  a scholarship fund aimed at enabling students from Sub-Saharan Africa to attend the conference, fostering knowledge exchange and networking opportunities.</li></ul>",
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Register NOW ",
+      "url": "https://store.pesapal.com/waporssaregionalconference2024",
+      "target": "_blank"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Hotel Reservation",
+      "url": "link.pages-page-hotel-reservation"
+    }
+  ],
+  "displayTable": true,
+  "tableHeaderCells": [
+    { "th": "Sponsorship level" },
+    {
+      "th": "Bronze"
+    },
+    {
+      "th": "Silver"
+    },
+    {
+      "th": "Gold"
+    },
+    {
+      "th": "Shared Platinum"
+    },
+    {
+      "th": "Solo Platinum"
+    }
+  ],
+  "tableRows": [
+    {
+      "tableCells": [
+        { "td": "Amount" },
+        {
+          "td": "$1000"
+        },
+        {
+          "td": "$2000"
+        },
+        {
+          "td": "$4000"
+        },
+        {
+          "td": "$5000"
+        },
+        {
+          "td": "$10,000"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Conference registration(s) (incl. meals)" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "1"
+        },
+        {
+          "td": "2"
+        },
+        {
+          "td": "3"
+        },
+        {
+          "td": "4"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Advertisement in conference program" },
+        {
+          "td": "Logo"
+        },
+        {
+          "td": "Quarter page"
+        },
+        {
+          "td": "Half page"
+        },
+        {
+          "td": "Full page"
+        },
+        {
+          "td": "Full Page"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Recognition (signage, program, website" },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Promotional items in registration package" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Social Media Mention" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Speaking Opportunity" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Customized Survey Report" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Branded conference Materials" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Exclusive Panel participation" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Dedicated email blast to conference attendees" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "Exhibit space / Booth" },
+        {
+          "td": "-"
+        },
+        {
+          "td": "-"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        { "td": "20% Discount underwriting opportunities" },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        },
+        {
+          "td": "Yes"
+        }
+      ]
+    }
+  ],
+  "tableFooterCells": true,
+  "displayDateBanner": true,
+  "dateBannerImage": "../../images/date-banner.jpg"
+}

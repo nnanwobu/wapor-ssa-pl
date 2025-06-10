@@ -1,0 +1,32 @@
+<nav class="c-primary-nav" role="navigation">
+	 {{> molecules-close-button}}
+    <ul class="c-primary-nav__list">
+        {{# navItems }}
+		 <span class="navItem-container" data-sidebarmenu="{{id}}">
+		<li class="c-primary-nav__item {{ styleModifier }} {{label}}">
+    
+			<a href="{{ url }}" class="c-primary-nav__link">{{ label }}</a><!--end c-primary-nav__link-->
+			
+			<ul class="submenu__list " id="{{id}}">
+			   <span class="submenu-title"><button class="go-back" id={{id}}>&times;</button><h3 class="test">{{label}}</h3></span>
+			{{#submenu}}
+			  	<li class="submenu__listItem"><a href="{{url}}" class="submenu__listLink">{{label}}</a> 
+				</li>
+			{{/submenu}}
+			</ul>
+			
+			
+		
+		</li><!-- end c-primary-nav__list__item -->
+		   <a class="btn-submenu" href="#{{id}}">>></a>
+	</span>
+        {{/ navItems }}
+	
+		
+	</ul><!-- end c-primary-nav__list -->
+
+	<div class= "{{additionalclass}}">
+        {{> molecules-header-nav-top}}
+    </div>
+       
+</nav><!-- end c-primary-nav -->

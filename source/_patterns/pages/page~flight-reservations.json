@@ -1,0 +1,39 @@
+{
+  "title": "flight reservations",
+  "htmlText": " <p>Fly with Kenya Airways into Mombasa, Kenya and enjoy our special, exclusive discounts for the attendees of Wapor SSA Regional Conference 2024.</p><h2><strong>The promo code: WAPOR24</strong></h2>",
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Register NOW ",
+      "url": "https://store.pesapal.com/waporssaregionalconference2024"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Book for flight",
+      "url": "https://www.kenya-airways.com/en/promotions/wapor-ssa-regional-conference/",
+      "target": "_blank"
+    }
+  ],
+  "benefitImage": "../../images/book-flight.jpg",
+
+  "imageLeftListRight-exist": true,
+  "extraclass": "addbullet",
+  "list-caption": "Offer Details:",
+  "image-caption": "Get more information on the promotion and your flight reservations here",
+  "image-caption-link": "https://www.kenya-airways.com/en/promotions/wapor-ssa-regional-conference/",
+  "benefit-items": [
+    { "label": "Discount: 15% off base fare International Flights" },
+    { "label": "Discount: 5% off base fare Domestic Flights" },
+    { "label": "Venue: Mombasa, Kenya" },
+    { "label": "Sales Period: Running until 18th Apr 2024" },
+    { "label": "ravel Period: 10th April–23rd Apr 2024" },
+    { "label": "Applicable for Return Journey only" },
+    { "label": "Applicable on Kenya Airways-operated flights only" },
+    {
+      "label": "Discounts are applicable on net fares only, excluding taxes and surcharges"
+    },
+    { "label": "Terms and Conditions apply" }
+  ]
+}

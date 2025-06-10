@@ -1,0 +1,7 @@
+{
+  "buton": {
+    "btnModifier": "btn-primary",
+    "url": "#",
+    "text": "primary button"
+  }
+}

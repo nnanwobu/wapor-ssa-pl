@@ -1,0 +1,144 @@
+{
+  "navToggle": {
+    "styleModifier": "c-btn--small c-header__nav-btn js-nav-trigger",
+    "buttonText": "Menu"
+  },
+  "navItems": [
+    {
+      "label": "home",
+      "url": "link.pages-home-page",
+      "id": "0"
+    },
+    {
+      "label": "about wapor-SSA",
+      "url": "link.pages-page-about",
+      "id": "1",
+      "submenu": [
+        { "label": "leadership", "url": "link.pages-page-leadership" },
+        {
+          "label": "The Sub-Saharan Africa in breif",
+          "url": "link.pages-page-about"
+        },
+        {
+          "label": "WAPOR SSA Constitution",
+          "url": "link.pages-page-constitution"
+        },
+        {
+          "label": "WAPOR SSA Code for professional ethics and practice",
+          "url": "link.pages-page-code-of-ethics"
+        },
+        { "label": "Elections", "url": "#" }
+      ]
+    },
+    {
+      "label": "membership",
+      "url": "#",
+      "id": "2",
+      "submenu": [
+        {
+          "label": "Eligible Persons",
+          "url": "link.pages-page-eligible-persons"
+        },
+        {
+          "label": "Membership category",
+          "url": "link.pages-page-membership-categories"
+        },
+        {
+          "label": "Membership benefits",
+          "url": "link.pages-page-membership-benefits"
+        },
+        {
+          "label": "Membership fees",
+          "url": "#"
+        },
+        {
+          "label": "membership events",
+          "url": "link.pages-page-membership-events"
+        }
+      ]
+    },
+    {
+      "label": "event",
+      "url": "#",
+      "id": "3",
+      "submenu": [
+        { "label": "Annual conferences", "url": "#" },
+        { "label": "Seminars/webinars", "url": "#" },
+        { "label": "Trainings", "url": "#" }
+      ]
+    },
+    {
+      "label": "wapor news",
+      "url": "#",
+      "id": "4",
+      "submenu": [
+        { "label": "News from Central Africa", "url": "#" },
+        { "label": "News from East Africa", "url": "#" },
+        { "label": "News from South Africa", "url": "#" },
+        { "label": "News from West Africa", "url": "#" }
+      ]
+    }
+  ],
+  "topnavItems": [
+    {
+      "label": "contact us",
+      "url": "link.pages-contact"
+    },
+    {
+      "label": "Join Wapor-SSA",
+      "url": "link.pages-page-membership-categories"
+    }
+  ],
+  "footerNav": [
+    {
+      "name": "about us",
+      "value": [
+        { "label": "About WAPOR SSA", "url": "link.pages-page-about" },
+        { "label": "Leadership", "url": "link.pages-page-leadership" },
+        { "label": "The Sub-Saharan Africa in breif", "url": "#" },
+        {
+          "label": "WAPOR SSA Constitution",
+          "url": "link.pages-page-constitution"
+        },
+        {
+          "label": "WAPOR SSA Code for professional ethics and practice",
+          "url": "link.pages-page-code-of-ethics"
+        },
+        { "label": "Elections", "url": "#" }
+      ]
+    },
+
+    {
+      "name": "membership",
+      "value": [
+        {
+          "label": "Eligible Persons",
+          "url": "link.pages-page-eligible-persons"
+        },
+        {
+          "label": "Membership category",
+          "url": "link.pages-page-membership-categories"
+        },
+        {
+          "label": "Membership fees",
+          "url": "link.pages-page-membership-fees"
+        },
+        {
+          "label": "Membership benefits",
+          "url": "link.pages-page-membership-benefits"
+        }
+      ]
+    },
+    {
+      "name": "event",
+      "value": [
+        { "label": "Annual conferences", "url": "#" },
+        { "label": "Seminars", "url": "#" },
+        { "label": "Trainings", "url": "#" },
+        { "label": "Membership benefits", "url": "#" }
+      ]
+    }
+  ],
+  "additionalclass": "top-nav",
+  "become-a-member": "link.pages-page-membership-categories"
+}

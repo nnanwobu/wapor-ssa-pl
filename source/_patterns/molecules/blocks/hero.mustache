@@ -1,0 +1,21 @@
+
+
+
+   <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+        {{#hero-items}}
+            <div class="swiper-slide">
+                <div class="c-hero">
+                    <img src="{{hero.src}}" alt="{{hero.alt}}" class="c-hero_img "/>
+                    {{#hero.title}}
+                    <h2>{{hero.title}}</h2>
+                    {{/hero.title}}
+                </div>
+            </div>
+        {{/hero-items}}
+    </div>
+
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>

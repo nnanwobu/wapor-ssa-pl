@@ -1,0 +1,34 @@
+{
+  "tableHeaderCells": [
+    {
+      "th": "Table Heading 1"
+    },
+    {
+      "th": "Table Heading 2"
+    }
+  ],
+  "tableRows": [
+    {
+      "tableCells": [
+        {
+          "td": "Value"
+        },
+        {
+          "td": "Value"
+        }
+      ]
+    },
+    {
+      "tableCells": [
+        {
+          "td": "Value"
+        },
+        {
+          "td": "Value"
+        }
+      ]
+    }
+  ],
+  "tableFooterCells": false,
+  "displayTable": false
+}
