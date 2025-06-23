@@ -1,6 +1,6 @@
 
 {{> organisms-header}}
-<div class="page-content-container">
+<div class="page-content-container" data-pagecategory="{{page-category}}">
 {{> organisms-banner}}
 <div class="page-container">
   {{# display-sideBar}}
@@ -8,6 +8,11 @@
         {{> molecules-sidebar-nav }}
     </div>
     {{/ display-sideBar}}
+
+    {{# display-contact-form}}
+       {{> organisms-contact-message-form}}
+    {{/ display-contact-form}}
+    
     <main class="page-main">
         {{#displayDateBanner}}
             {{>atoms-date-banner}}

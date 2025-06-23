@@ -2,6 +2,7 @@
   "legend": "Legend",
   "label": "Label",
   "value": "",
+  "form-title": "send message",
   "placeholder": "enter text here",
   "fieldNote": "This is a note about the field",
   "id": "",

@@ -1,0 +1,30 @@
+{
+  "title": "annual conference",
+  "page-category": "3",
+  "htmlText": "Meet with academic, commercial and government researchers from around the world while learning about the latest polling trends, techniques and approaches. Wapor-SSA also collaborate with other regional chapters like WAPOR- WANA, WAPOR- LATAM, WAPOR-AP in organizing events which among other things promote the importance of conducting scientifically sound public opinion research and provoke discussion that advance democracy and governance in Africa.",
+  "event-list-exist": true,
+  "event-listItem": [
+    {
+      "label": "WAPOR SUB-SAHARAN AFRICA REGIONAL CONFERENCE 2024",
+      "edition": " 1st Annual Regional Conference ",
+      "theme": " Shapping a Sustainable Future: The lessons and Legacies from Opinion Polling in Africa",
+      "date": "April 15th - 18th, 2024",
+      "venue": "Mombasa, Kenya",
+      "url": "link.pages-page-regional-conference-2024"
+    }
+  ],
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Become Wapor SSA member NOW ",
+      "url": "link.pages-page-membership-categories"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Join wapor global body",
+      "url": "https://wapor.org/membership/"
+    }
+  ]
+}

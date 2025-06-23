@@ -5,6 +5,13 @@
   "hero-items": [
     {
       "hero": {
+        "src": "../../images/wapor-ssa.jpg",
+        "alt": "wapor ssa group picture",
+        "title": "WAPOR SSA and its members commit themselves to the professional and ethical principles summarized in the WAPOR Code of Professional Ethics and Practices. The new WAPOR-SSA Regional Chapter will engage in a robust ongoing conversation using publications, seminars, meetings and other educational initiatives about the best way to collect data and maintain data quality in and around the sub-Saharan African region."
+      }
+    },
+    {
+      "hero": {
         "src": "../../images/slide2.jpg",
         "alt": "slide2",
         "title": "WAPOR-SSA is the chapter association of the World Association for Public Opinion Research (WAPOR) which for over 74yrs has promoted the highest professional standards"
@@ -151,5 +158,6 @@
         }
       }
     }
-  ]
+  ],
+  "page-category": "0"
 }

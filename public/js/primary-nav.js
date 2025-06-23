@@ -106,21 +106,22 @@ goBack.forEach((el, i) => {
 });
 
 window.addEventListener("load", (e) => {
+  const pageCategory = document.querySelector(".page-content-container").dataset
+    .pagecategory;
   const sidebarIndex = localStorage.getItem("menunumber");
-  sideBarNav[Number(sidebarIndex)].classList.add("showsidebar");
-  console.log(sidebarIndex);
+  sideBarNav[Number(pageCategory)].classList.add("showsidebar");
 });
 
-navItemContainer.forEach((ni, i) => {
-  ni.addEventListener("click", function (e) {
-    const menuNumber = Number(ni.dataset.sidebarmenu);
+// navItemContainer.forEach((ni, i) => {
+//   ni.addEventListener("click", function (e) {
+//     const menuNumber = Number(ni.dataset.sidebarmenu);
 
-    sideBarNav.forEach((el, i) => el.classList.remove("showsidebar"));
+//     sideBarNav.forEach((el, i) => el.classList.remove("showsidebar"));
 
-    sideBarNav[menuNumber].classList.add("showsidebar");
-    localStorage.setItem("menunumber", `${menuNumber}`);
-  });
-});
+//     sideBarNav[menuNumber].classList.add("showsidebar");
+//     localStorage.setItem("menunumber", `${menuNumber}`);
+//   });
+// });
 
 navItemContainer.forEach((sm, i) => {
   if (subMenu[i].children.length <= 1) {
@@ -143,6 +144,18 @@ const searchTitle = document.querySelector(".search-title");
 const searchForm = document.querySelectorAll(".search-form");
 
 const searchListItems = [
+  {
+    title: "Wapor-SSA Webinar October 24, 2024",
+    url: "https://us06web.zoom.us/webinar/register/WN_bt9j6EluSMmk_Mx4YHuG3w",
+  },
+  {
+    title: "Wapor-SSA Annual conference",
+    url: "http://127.0.0.1:3000/?p=pages-page-annual-conference",
+  },
+  {
+    title: "Wapor-SSA webinars",
+    url: "http://127.0.0.1:3000/?p=pages-page-Wapor-SSA-Webinars",
+  },
   {
     title: "Regional conference 2024",
     url: "http://127.0.0.1:3000/?p=pages-page-regional-conference-2024",
@@ -226,7 +239,7 @@ searchForm.forEach((form, i) => {
 
     const u = localStorage.getItem("data");
     console.log(u);
-    searchValue = u;
+    searchValue = u.toLowerCase();
 
     const bySpace = searchValue.split(" ").flatMap((el) => el.split("-"));
 
@@ -328,3 +341,9 @@ window.addEventListener("load", (e) => {
       })
     : (searchList.innerHTML = `<div class='not-found'><p>No result found</p><a href='http://127.0.0.1:3000/?p=pages-home-page'>go back to the home page</a></div>`);
 });
+
+const copyright = document.querySelector(".footer-nav-contact-copyright");
+const dt = new Date();
+const yr = dt.getFullYear();
+copyright.innerHTML = "";
+copyright.innerHTML = `Copyright © ${yr} WAPOR SSA. ALL RIGHTS RESERVED. | WEBSITE BY <a href="mailto: jensglobalmart@gmail.com" target='_blank'>JENS GLOBAL</a>`;

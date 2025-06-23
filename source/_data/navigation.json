@@ -58,12 +58,18 @@
       ]
     },
     {
-      "label": "event",
+      "label": "events",
       "url": "#",
       "id": "3",
       "submenu": [
-        { "label": "Annual conferences", "url": "#" },
-        { "label": "Seminars/webinars", "url": "#" },
+        {
+          "label": "Annual conference",
+          "url": "link.pages-page-annual-conference"
+        },
+        {
+          "label": "Seminars/webinars",
+          "url": "link.pages-page-wapor-SSA-Webinars"
+        },
         { "label": "Trainings", "url": "#" }
       ]
     },
@@ -130,10 +136,13 @@
       ]
     },
     {
-      "name": "event",
+      "name": "events",
       "value": [
-        { "label": "Annual conferences", "url": "#" },
-        { "label": "Seminars", "url": "#" },
+        {
+          "label": "Annual conference",
+          "url": "link.pages-page-annual-conferences"
+        },
+        { "label": "Seminars", "url": "link.pages-page-wapor-SSA-Webinars" },
         { "label": "Trainings", "url": "#" },
         { "label": "Membership benefits", "url": "#" }
       ]

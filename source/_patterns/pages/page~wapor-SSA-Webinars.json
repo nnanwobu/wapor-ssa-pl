@@ -1,0 +1,38 @@
+{
+  "title": "WAPOR-SSA Webinars",
+  "page-category": "3",
+  "htmlText": "WAPOR-SSA has set up a program of webinars, open to the public.",
+  "event-list-exist": true,
+  "event-listItem": [
+    {
+      "label": "Webinar April 28 2025",
+      "edition": " Phone Survey Method CATI: Effective Techniques to improve Response rate",
+      "theme": " With: Mr. Lee Holmes",
+      "date": "April 28, 2025 ",
+      "venue": "5:30 PM (UTC+3), 60 mins",
+      "url": "link.pages-page-webinar-28-04-2025"
+    },
+    {
+      "label": "Webinar October 24 2024",
+      "edition": " From Rising Costs to Shrinking Wallets",
+      "theme": " With: Mr. Vincent Bonnecase",
+      "date": "October 24, 2024 ",
+      "venue": "13:00 PM-15:00 PM (UTC), 2 hours",
+      "url": "https://us06web.zoom.us/webinar/register/WN_bt9j6EluSMmk_Mx4YHuG3w"
+    }
+  ],
+  "addButtonGroup": true,
+  "buttonGroup": [
+    {
+      "btnModifier": "btn-primary",
+      "text": "Become Wapor SSA member NOW ",
+      "url": "link.pages-page-membership-categories"
+    },
+
+    {
+      "btnModifier": "btn-secondary",
+      "text": "Join wapor global body",
+      "url": "https://wapor.org/membership/"
+    }
+  ]
+}
